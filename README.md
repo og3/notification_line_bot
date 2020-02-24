@@ -6,15 +6,15 @@
 - 今日の戦績
 - トータルの戦績
 - フレンドの戦績
-https://royaleapi.com/players/leaderboard/jp
-https://qiita.com/takahirono7/items/4d76d727945b0edd0657
-https://qiita.com/yasu99/items/395389d5a0255ec708a2
+- https://royaleapi.com/players/leaderboard/jp
+- https://qiita.com/takahirono7/items/4d76d727945b0edd0657
+- https://qiita.com/yasu99/items/395389d5a0255ec708a2
 
 ## フォートナイト
 - 今日の戦績
 - トータルの戦績
 - フレンドの戦績（管理画面からタグを追加して任意に通知対象を増やせる）
-https://www.aizulab.com/blog/free-fortnite-api/
+- https://www.aizulab.com/blog/free-fortnite-api/
 
 ## 銀行口座情報
 - 今日いくら使ったのか
