@@ -1,24 +1,37 @@
-# README
+# このアプリについて
+- LINEに通知してほしい情報を通知できるようにする
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 通知したい内容
+## クラロワ
+- 今日の戦績
+- トータルの戦績
+- フレンドの戦績
+https://royaleapi.com/players/leaderboard/jp
+https://qiita.com/takahirono7/items/4d76d727945b0edd0657
+https://qiita.com/yasu99/items/395389d5a0255ec708a2
 
-Things you may want to cover:
+## フォートナイト
+- 今日の戦績
+- トータルの戦績
+- フレンドの戦績（管理画面からタグを追加して任意に通知対象を増やせる）
+https://www.aizulab.com/blog/free-fortnite-api/
 
-* Ruby version
+## 銀行口座情報
+- 今日いくら使ったのか
+- 今月いくら使ったのか
+seleniumでCSVダウンロードしてインポートするか
+銀行システムだから堅そうだけど。。
 
-* System dependencies
+# UI
+- リッチUIからワンタップで取得する
+- 定時で情報を流す
+- 管理画面でいろいろ設定したい
 
-* Configuration
+## 管理画面
+- 現在配信中の情報を一覧で見れるようにする
+- 取得したい値を操作できる
+- 配信時間をコントロールできる
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# 新しいこと
+- 操作するユーザーによって返す値を変えたい
+- herokuで運用後にAWSに載せ替えるのもいいかも
